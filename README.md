@@ -6,7 +6,7 @@ Horiseon2.0
 
 ## About / Synopsis
 
-*Client has requested a refactor of their website to include Semantic HTML, increase accesibilty, and consolidate CSS elements.
+ Client has requested a refactor of their website to include Semantic HTML, increase accesibilty, and consolidate CSS elements.
 * Project status: complete/review
 * UC Boot Camp Reviewers 
 
@@ -23,11 +23,12 @@ Horiseon2.0
 >     * [Features](#features)
 >   * [Code](#code)
 >     * [Content](#content)
->     * [Requirements](#requirements)
+>     * [User Story](#user-story)
+>     * [Acceptance Criteria](#acceptance-criteria)
 >     * [Limitations](#limitations)
 >     * [Build](#build)
->     * [Deploy (how to install build product)](#deploy-how-to-install-build-product)
->   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
+>     * [Deploy](#deploy-how-to-install-build-product)
+>   * [Resources](#resources)
 >   * [Contributing / Reporting issues](#contributing--reporting-issues)
 >   * [License](#license)
 
@@ -38,12 +39,12 @@ This is meant to be viewed and tested. There is nothing to install.
 ## Usage
 This is Week 1 Challenge. 
 
-### Screenshots
+## Screenshots
 
 https://github.com/Z9tails/Horiseon2.0/issues/1#issue-1179735996
 
 
-### Features
+## Features
 No special features to include at this time
 
 ## Code
@@ -52,15 +53,15 @@ Refactored on Visual Studio Code with html and css.
 
 ### Content
 
-> *Removed <div>
-> *Replaced with semantic html <header>, <nav>, <main>, <section>, <aside>, <footer>
-> *Consolidated multiple css elements to reduce repetition
-> *Renamed css elements to match semantic html 
-> *Added <a href=> for search engine optimization
-> *Added concise clear title to display in tab when site is opened. 
-> *Added comments for respective sections and css elements
-> *Adjusted css order to align with html order
-> *Adjusted code indentations(tab) for ease of inspection and proper parent/child indentation. 
+> * Removed div
+> * Replaced with semantic html "header", "nav", "main", "section", "aside", "footer"
+> * Consolidated multiple css elements to reduce repetition
+> * Renamed css elements to match semantic html 
+> * Added "a href=" for search engine optimization
+> * Added concise clear title to display in tab when site is opened. 
+> * Added comments for respective sections and css elements
+> * Adjusted css order to align with html order
+> * Adjusted code indentations(tab) for ease of inspection and proper parent/child indentation. 
 
 
 ## User Story
@@ -85,24 +86,25 @@ WHEN I view the heading attributes
 THEN I find that they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-```=
+```
 
-### Limitations
+### Limitations 
 
-It's a basic level refactor of a provided code.
+    It's a basic level refactor of a provided code.
 
 ### Build
 
     Version 2.0
 
-### Deploy 
+### Deploy (how to install build product)
 
 Clone repository/ or open .index in your preferred html editor. 
 
 ## Resources 
+    No additional documentation.
 
 ## Contributing / Reporting issues
-Send message 
+    Send message/ Leave Comment. 
 
 ## License
 
