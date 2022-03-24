@@ -1,4 +1,4 @@
-/* universal style */
+/* Universal style */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -18,16 +18,7 @@ p {
     font-size: 16px;
 }
 
-/* Image float alignment */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 /* Header and Navigation sections style */
 
@@ -61,6 +52,17 @@ header nav ul {
 
 header nav ul li {
     display: inline-block;
+    margin-left: 25px;
+}
+
+/* Image float alignment */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
     margin-left: 25px;
 }
 
